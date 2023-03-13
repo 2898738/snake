@@ -1,4 +1,4 @@
-
+ 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 //note: board does not change dynamically 
 //note: board shape and window aesthetics to be set
 //note: unification of colors not done
+
 public class BoardDrawing extends JPanel {
 
     /**
